@@ -25,3 +25,7 @@ This task involves creating a login form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## T-7: Implement User Borrow Request & Approval System
+This task involves creating user borrow request and approval system and error handling.
+**Status: Implemented**
+
