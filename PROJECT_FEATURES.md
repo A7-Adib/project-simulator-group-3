@@ -34,3 +34,8 @@ This task involves creating user borrow request and approval system and error ha
 **Status: Implemented**
 >>>>>>> dfa6771ca2d425f9d165c0e6298320194419decb
 
+## T-10: QR Code Generation & Scanning System
+This task involves creating a login form component with email and passw
+ord fields, including validation and error handling.
+**Status: Implemented**
+
